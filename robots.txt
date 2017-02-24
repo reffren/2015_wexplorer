@@ -1,0 +1,13 @@
+User-agent: Yandex
+Disallow: /files
+Disallow: /example
+Disallow: /stuff
+Disallow: /page2
+Host: wexplorer.ru
+
+User-agent: *
+Disallow: /files
+Disallow: /example
+Disallow: /stuff
+Disallow: /page2
+Sitemap: http://wexplorer.ru/sitemap.xml
